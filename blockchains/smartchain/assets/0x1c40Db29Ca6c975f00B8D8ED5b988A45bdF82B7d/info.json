@@ -7,5 +7,19 @@
     "website": "https://gdfof.com",
     "explorer": "https://bscscan.com/token/0x1c40Db29Ca6c975f00B8D8ED5b988A45bdF82B7d",
     "status": "active",
-    "id": "0x1c40Db29Ca6c975f00B8D8ED5b988A45bdF82B7d"
+    "id": "0x1c40Db29Ca6c975f00B8D8ED5b988A45bdF82B7d",
+    "links": [
+        {
+            "name": "X",
+            "url": "https://x.com/good73391245540"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/gdftoken"
+        }
+    ],
+    "tags": [
+        "utility",
+        "defi"
+    ]
 }
