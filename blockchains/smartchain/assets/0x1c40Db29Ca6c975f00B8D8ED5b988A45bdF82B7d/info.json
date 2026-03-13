@@ -1,0 +1,11 @@
+{
+    "name": "GDF Token",
+    "type": "BEP20",
+    "symbol": "GDF",
+    "decimals": 18,
+    "description": "GDF is a multi-functional Web3 utility token integrating decentralized referral rewards, auto-liquidity generation, and an NFT-powered dividend system.",
+    "website": "https://gdfof.com",
+    "explorer": "https://bscscan.com/token/0x1c40Db29Ca6c975f00B8D8ED5b988A45bdF82B7d",
+    "status": "active",
+    "id": "0x1c40Db29Ca6c975f00B8D8ED5b988A45bdF82B7d"
+}
